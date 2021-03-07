@@ -1,0 +1,229 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #FFFFFF;
+    color: black;
+    font-size: 18px;
+}
+.wrapper {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+    padding-top:20px ;
+}
+.wrapper ul{
+    border-bottom: 1px solid #000;
+    padding-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.nav { 
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 70px;
+}
+.nav > li {
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.nav > li > a {
+    text-decoration: none;
+    color: #828282;
+
+}
+.wrapper1 {    
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+    padding-top:20px ;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#FFFFFF;
+}
+.name{
+    color: black;
+    font-size: 47px;
+    line-height: 0px;
+}
+.profession{
+    font-size: 18px;
+    line-height: 0px;
+    color: black;
+}
+.language{
+    font-size: 16px;
+    line-height: 0px;
+    transform: rotate(-90deg);
+    color: black;
+}
+.denis{
+    text-align: center;
+}
+.infa{
+    margin-top: 90px;
+    background: #F6F6F6;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.he{
+    text-align: center;
+    font-size: 35px;
+    line-height: 40px;
+    font-family: 'Oswald', sans-serif;
+}
+.osninfa{
+    margin-top: -15px;  
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+.skills{
+    margin-top: 150px;
+     background-color: white;
+     padding-top: 50px;
+     padding-bottom: 150px;
+ }
+ .skills1{
+     color: #070707;
+     font-size: 34px;
+     line-height: 42px;
+     text-align: center;
+     font-family: 'Hind Siliguri', sans-serif;
+ }
+ .skills1-down{
+     font-family: 'Hind Siliguri', sans-serif;
+     font-size: 18px;
+     line-height: 22px;
+     text-align: center;
+     color: #070707;
+     margin-top: 60px;
+ }
+ .soft{
+     margin-top: 130px;
+     display: flex;
+     justify-content: space-evenly;
+     
+ }
+.portfolio{  
+    background-color: #F6F6F6;
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+.prtfl{
+    margin-top: 150px;
+    color: #070707;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.click1{
+    margin-top: 110px;
+    text-align: center;
+}
+.text_click1{
+    margin-top: 35px;
+    font-family: Oswald-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: 'Oswald', sans-serif;
+    color: #070707;
+    font-weight: 500;  
+}
+.click2{
+    margin-top: 110px;
+    text-align: center;
+}
+.text_click2{
+    margin-top: 35px;
+    font-family: Oswald-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: 'Oswald', sans-serif;
+    color: #070707;
+    font-weight: 500;  
+}
+.click3{
+    margin-top: 110px;
+    text-align: center;
+}
+.text_click3{
+    margin-top: 35px;
+    font-family: Oswald-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: 'Oswald', sans-serif;
+    color: #070707;
+    font-weight: 500;  
+}
+.footer{
+    background-color: #ffffff;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.contact{
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    color: #070707;
+    font-weight: 700; 
+    font-family: 'Oswald', sans-serif;
+}
+.text4{
+    margin-top: 25px;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500; 
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.button1{
+    background: #070707;
+    color: #FFFFFF;
+    padding: 8px;
+    border-radius: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+}
+.icons1{
+    text-align:center;
+    
+    
+}
+.icons1 li{
+    margin-top: 80px;
+    margin-right: 50px;
+    display:inline-block;
+}
+.end{
+    margin-top: 50px;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    font-family: 'Oswald', sans-serif;
+}
